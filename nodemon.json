@@ -1,0 +1,8 @@
+{
+    "env":{
+        "DB_USER":"greta21",
+        "DB_PW":"yz9b2cJJiSdw2CUC",
+        "DB_NAME":"myDatabaseGreta21",
+        "DB_SERVER":"cluster0.lpjnj.mongodb.net"
+    }
+}
